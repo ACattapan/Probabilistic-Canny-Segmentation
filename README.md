@@ -1,1 +1,1 @@
-# Probabilistic-Canny-Segmentation
+# Probabilistic Canny Segmentation
